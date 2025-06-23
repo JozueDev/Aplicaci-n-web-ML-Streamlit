@@ -4,7 +4,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Predicción del Clima", page_icon="⛅", layout="centered")
 
-st.title("🌤️ Predicción del Clima con IA")
+st.title("🌤️ Predicción del Clima")
 st.write("Ajusta los valores para predecir si el clima será *soleado* o *lluvioso*.")
 
 # === Cargar modelo y columnas ===
